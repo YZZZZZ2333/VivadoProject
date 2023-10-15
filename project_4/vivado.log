@@ -1,0 +1,17 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec 10 20:26:15 2019
+# Process ID: 8384
+# Current directory: C:/Users/YangZhen/OneDrive - cstdlib/杭电/EDA/VivadoProject/project_4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3440 C:\Users\YangZhen\OneDrive - cstdlib\杭电\EDA\VivadoProject\project_4\project_4.xpr
+# Log file: C:/Users/YangZhen/OneDrive - cstdlib/杭电/EDA/VivadoProject/project_4/vivado.log
+# Journal file: C:/Users/YangZhen/OneDrive - cstdlib/杭电/EDA/VivadoProject/project_4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/YangZhen/OneDrive - cstdlib/杭电/EDA/VivadoProject/project_4/project_4.xpr}
+INFO: [Common 17-41] Interrupt caught. Command should exit soon.
+INFO: [Common 17-344] 'open_project' was cancelled
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 10 20:26:29 2019...

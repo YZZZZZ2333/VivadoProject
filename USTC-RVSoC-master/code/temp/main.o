@@ -1,0 +1,61 @@
+	.file	"main.c"
+ # GNU C (tdm64-1) version 4.9.2 (x86_64-w64-mingw32)
+ #	compiled by GNU C version 4.9.2, GMP version 4.3.2, MPFR version 2.4.2, MPC version 0.8.2
+ # GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ # options passed:  -I C:/Program Files (x86)/Dev-Cpp/MinGW64/include
+ # -I C:/Program Files (x86)/Dev-Cpp/MinGW64/x86_64-w64-mingw32/include
+ # -I C:/Program Files (x86)/Dev-Cpp/MinGW64/lib/gcc/x86_64-w64-mingw32/4.9.2/include
+ # -iprefix C:/Program Files (x86)/Dev-Cpp/MinGW64/bin/../lib/gcc/x86_64-w64-mingw32/4.9.2/
+ # -D_REENTRANT main.c -mtune=generic -march=x86-64 -auxbase-strip main.o
+ # -fverbose-asm
+ # options enabled:  -faggressive-loop-optimizations
+ # -fasynchronous-unwind-tables -fauto-inc-dec -fcommon
+ # -fdelete-null-pointer-checks -fdwarf2-cfi-asm -fearly-inlining
+ # -feliminate-unused-debug-types -ffunction-cse -fgcse-lm -fgnu-runtime
+ # -fgnu-unique -fident -finline-atomics -fira-hoist-pressure
+ # -fira-share-save-slots -fira-share-spill-slots -fivopts
+ # -fkeep-inline-dllexport -fkeep-static-consts -fleading-underscore
+ # -fmath-errno -fmerge-debug-strings -fpeephole -fpic
+ # -fprefetch-loop-arrays -freg-struct-return
+ # -fsched-critical-path-heuristic -fsched-dep-count-heuristic
+ # -fsched-group-heuristic -fsched-interblock -fsched-last-insn-heuristic
+ # -fsched-rank-heuristic -fsched-spec -fsched-spec-insn-heuristic
+ # -fsched-stalled-insns-dep -fset-stack-executable -fshow-column
+ # -fsigned-zeros -fsplit-ivs-in-unroller -fstrict-volatile-bitfields
+ # -fsync-libcalls -ftrapping-math -ftree-coalesce-vars -ftree-cselim
+ # -ftree-forwprop -ftree-loop-if-convert -ftree-loop-im
+ # -ftree-loop-ivcanon -ftree-loop-optimize -ftree-parallelize-loops=
+ # -ftree-phiprop -ftree-reassoc -ftree-scev-cprop -funit-at-a-time
+ # -funwind-tables -fverbose-asm -fzero-initialized-in-bss
+ # -m128bit-long-double -m64 -m80387 -maccumulate-outgoing-args
+ # -malign-double -malign-stringops -mavx256-split-unaligned-load
+ # -mavx256-split-unaligned-store -mfancy-math-387 -mfentry -mfp-ret-in-387
+ # -mfxsr -mieee-fp -mlong-double-80 -mmmx -mms-bitfields -mno-sse4
+ # -mpush-args -mred-zone -msse -msse2 -mstack-arg-probe
+
+	.def	__main;	.scl	2;	.type	32;	.endef
+	.section .rdata,"dr"
+.LC0:
+	.ascii "hello world\0"
+	.text
+	.globl	main
+	.def	main;	.scl	2;	.type	32;	.endef
+	.seh_proc	main
+main:
+	pushq	%rbp	 #
+	.seh_pushreg	%rbp
+	movq	%rsp, %rbp	 #,
+	.seh_setframe	%rbp, 0
+	subq	$32, %rsp	 #,
+	.seh_stackalloc	32
+	.seh_endprologue
+	call	__main	 #
+	leaq	.LC0(%rip), %rcx	 #,
+	call	printf	 #
+	movl	$0, %eax	 #, D.3129
+	addq	$32, %rsp	 #,
+	popq	%rbp	 #
+	ret
+	.seh_endproc
+	.ident	"GCC: (tdm64-1) 4.9.2"
+	.def	printf;	.scl	2;	.type	32;	.endef

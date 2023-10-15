@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec 10 19:20:02 2019
+# Process ID: 12480
+# Current directory: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/synth_1
+# Command line: vivado.exe -log Arty7_USTCRVSoC_top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source Arty7_USTCRVSoC_top.tcl
+# Log file: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/synth_1/Arty7_USTCRVSoC_top.vds
+# Journal file: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source Arty7_USTCRVSoC_top.tcl -notrace

@@ -1,0 +1,50 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Dec 10 19:19:18 2019
+# Process ID: 12476
+# Current directory: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7684 C:\Users\YangZhen\Documents\VivadoProject\USTC-RVSoC-master\USTC-RVSoC-master\hardware\Vivado\Arty7\USTCRVSoC-Arty7.xpr
+# Log file: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/vivado.log
+# Journal file: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.xpr
+INFO: [ProjectBase 1-489] The host OS only allows 260 characters in a normal path. The project is stored in a path with more than 80 characters. If you experience issues with IP, Block Designs, or files not being found, please consider moving the project to a location with a shorter path. Alternately consider using the OS subst command to map part of the path to a drive letter.
+Current project path is 'C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7'
+INFO: [Project 1-313] Project file moved from 'E:/FPGAcommon/USTCRVSoC/hardware/Vivado/Arty7' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'impl_1' not found
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.ip_user_files', nor could it be found using path 'E:/FPGAcommon/USTCRVSoC/hardware/Vivado/Arty7/USTCRVSoC-Arty7.ip_user_files'.
+INFO: [Project 1-230] Project 'USTCRVSoC-Arty7.xpr' upgraded for this version of Vivado.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:11 ; elapsed = 00:00:05 . Memory (MB): peak = 820.832 ; gain = 171.797
+update_compile_order -fileset sources_1
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+[Tue Dec 10 19:20:00 2019] Launched synth_1...
+Run output will be captured here: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/synth_1/runme.log
+[Tue Dec 10 19:20:00 2019] Launched impl_1...
+Run output will be captured here: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/impl_1/runme.log
+open_hw
+connect_hw_server
+INFO: [Labtools 27-2285] Connecting to hw_server url TCP:localhost:3121
+open_hw_target
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Xilinx/1234-tulA
+current_hw_device [get_hw_devices xc7a35t_0]
+refresh_hw_device -update_hw_probes false [lindex [get_hw_devices xc7a35t_0] 0]
+INFO: [Labtools 27-1435] Device xc7a35t (JTAG device index = 0) is not programmed (DONE status = 0).
+reset_run impl_1 -prev_step 
+launch_runs impl_1 -to_step write_bitstream -jobs 8
+[Tue Dec 10 19:26:51 2019] Launched impl_1...
+Run output will be captured here: C:/Users/YangZhen/Documents/VivadoProject/USTC-RVSoC-master/USTC-RVSoC-master/hardware/Vivado/Arty7/USTCRVSoC-Arty7.runs/impl_1/runme.log
+ERROR: [Labtoolstcl 44-513] HW Target shutdown. Closing target: localhost:3121/xilinx_tcf/Xilinx/1234-tulA
+INFO: [Labtoolstcl 44-466] Opening hw_target localhost:3121/xilinx_tcf/Xilinx/1234-tulA
+INFO: [Labtools 27-1435] Device xc7a35t (JTAG device index = 0) is not programmed (DONE status = 0).
+WARNING: [Labtoolstcl 44-129] No matching hw_ila_data was found.
+exit
+INFO: [Common 17-206] Exiting Vivado at Tue Dec 10 19:29:22 2019...

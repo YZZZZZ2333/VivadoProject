@@ -1,0 +1,75 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/YangZhen/Documents/VivadoProject/project_5/project_5.sim/sim_1/behav/modelsim
+vglbl
+!s110 1574771758
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1558713910
+8glbl.v
+Fglbl.v
+L0 6
+Z2 OL;L;10.6e;65
+r1
+!s85 0
+31
+!s108 1574771758.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+Z3 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vpc
+!s10a 1574770614
+Z5 !s110 1574770904
+!i10b 1
+!s100 ah<R1YL>oGmkUFBB=6J??1
+IIa^kY4jQT;0Zd_LdPCEk93
+R1
+R0
+w1574770614
+8../../../../project_5.srcs/sources_1/new/main.v
+F../../../../project_5.srcs/sources_1/new/main.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1574770904.000000
+Z7 !s107 ../../../../project_5.srcs/sim_1/new/main_tb.v|../../../../project_5.srcs/sources_1/new/main.v|
+Z8 !s90 -64|-incr|-work|xil_defaultlib|../../../../project_5.srcs/sources_1/new/main.v|../../../../project_5.srcs/sim_1/new/main_tb.v|
+!i113 1
+R3
+R4
+vpc_tb
+!s10a 1574770827
+R5
+!i10b 1
+!s100 nLVDn?JWP:^JT0>51K>Vg1
+IR=N6=KT>So5LMo8`?c@092
+R1
+R0
+w1574770827
+8../../../../project_5.srcs/sim_1/new/main_tb.v
+F../../../../project_5.srcs/sim_1/new/main_tb.v
+L0 2
+R2
+r1
+!s85 0
+31
+R6
+R7
+R8
+!i113 1
+R3
+R4

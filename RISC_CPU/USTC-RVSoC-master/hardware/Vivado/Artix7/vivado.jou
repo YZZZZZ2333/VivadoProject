@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Apr 23 16:38:47 2020
+# Process ID: 10256
+# Current directory: E:/OneDrive - cstdlib/杭电/EDA/VivadoProject/RISC_CPU/USTC-RVSoC-master/hardware/Vivado/Artix7
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7524 E:\OneDrive - cstdlib\杭电\EDA\VivadoProject\RISC_CPU\USTC-RVSoC-master\hardware\Vivado\Artix7\USTCRVSoC-Arty7.xpr
+# Log file: E:/OneDrive - cstdlib/杭电/EDA/VivadoProject/RISC_CPU/USTC-RVSoC-master/hardware/Vivado/Artix7/vivado.log
+# Journal file: E:/OneDrive - cstdlib/杭电/EDA/VivadoProject/RISC_CPU/USTC-RVSoC-master/hardware/Vivado/Artix7\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {E:/OneDrive - cstdlib/杭电/EDA/VivadoProject/RISC_CPU/USTC-RVSoC-master/hardware/Vivado/Artix7/USTCRVSoC-Arty7.xpr}
+update_compile_order -fileset sources_1

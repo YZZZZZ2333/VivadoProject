@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Tue Nov  5 20:43:20 2019
+# Process ID: 6112
+# Current directory: C:/Users/YangZhen/Documents/VivadoProject/vga_disp/vga_disp.runs/synth_1
+# Command line: vivado.exe -log vga_disp.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source vga_disp.tcl
+# Log file: C:/Users/YangZhen/Documents/VivadoProject/vga_disp/vga_disp.runs/synth_1/vga_disp.vds
+# Journal file: C:/Users/YangZhen/Documents/VivadoProject/vga_disp/vga_disp.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source vga_disp.tcl -notrace

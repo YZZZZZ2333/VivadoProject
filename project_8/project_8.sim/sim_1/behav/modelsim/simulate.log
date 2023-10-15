@@ -1,0 +1,38 @@
+# //  ModelSim SE-64 10.6e Jun 23 2018
+# //
+# //  Copyright 1991-2018 Mentor Graphics Corporation
+# //  All Rights Reserved.
+# //
+# //  ModelSim SE-64 and its associated documentation contain trade
+# //  secrets and commercial or financial information that are the property of
+# //  Mentor Graphics Corporation and are privileged, confidential,
+# //  and exempt from disclosure under the Freedom of Information Act,
+# //  5 U.S.C. Section 552. Furthermore, this information
+# //  is prohibited from disclosure under the Trade Secrets Act,
+# //  18 U.S.C. Section 1905.
+# //
+# do {main_tb_simulate.do}
+# vsim -voptargs=""+acc"" -L dist_mem_gen_v8_0_13 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -lib xil_defaultlib xil_defaultlib.main_tb xil_defaultlib.glbl 
+# Start time: 17:56:50 on Nov 21,2019
+# ** Warning: (vsim-8891) All optimizations are turned off because the -novopt switch is in effect. This will cause your simulation to run very slowly. If you are using this switch to preserve visibility for Debug or PLI features please see the User's Manual section on Preserving Object Visibility with vopt.
+# Loading xil_defaultlib.main_tb
+# Loading xil_defaultlib.main
+# Loading xil_defaultlib.dist_mem_gen_0
+# Loading dist_mem_gen_v8_0_13.dist_mem_gen_v8_0_13
+# Loading xil_defaultlib.F_CODE
+# Loading xil_defaultlib.SPKER
+# Loading xil_defaultlib.glbl
+# ** Warning: (vsim-3015) ../../../../project_8.srcs/sources_1/new/main.v(65): [PCDPC] - Port size (5) does not match connection size (8) for port 'a'. The port definition is at: ../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v(57).
+#    Time: 0 ps  Iteration: 0  Instance: /main_tb/m/d0 File: ../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+# 1
+# 1
+# .main_pane.wave.interior.cs.body.pw.wf
+# .main_pane.structure.interior.cs.body.struct
+# .main_pane.objects.interior.cs.body.tree
+# WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+run
+run
+run
+run
+# End time: 18:07:14 on Nov 21,2019, Elapsed time: 0:10:24
+# Errors: 0, Warnings: 2

@@ -1,0 +1,18 @@
+set_property IOSTANDARD LVCMOS33 [get_ports HIGH]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED[3]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED[2]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED[1]}]
+set_property IOSTANDARD LVCMOS33 [get_ports {LED[0]}]
+set_property IOSTANDARD LVCMOS33 [get_ports CLK50MHZ]
+set_property IOSTANDARD LVCMOS33 [get_ports SPK_KX]
+set_property PACKAGE_PIN P17 [get_ports CLK50MHZ]
+set_property PACKAGE_PIN T1 [get_ports {LED[0]}]
+set_property PACKAGE_PIN N6 [get_ports {LED[1]}]
+set_property PACKAGE_PIN R5 [get_ports {LED[2]}]
+set_property PACKAGE_PIN V6 [get_ports {LED[3]}]
+set_property PACKAGE_PIN V9 [get_ports HIGH]
+set_property PACKAGE_PIN G13 [get_ports SPK_KX]
+
+
+set_property IOSTANDARD LVCMOS33 [get_ports RST]
+set_property PACKAGE_PIN L16 [get_ports RST]

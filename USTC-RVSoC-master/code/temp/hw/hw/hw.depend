@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1576055013 source:c:\users\yangzhen\documents\vivadoproject\ustc-rvsoc-master\code\temp\hw\hw\main.c
+	<stdio.h>
+	<stdlib.h>
+

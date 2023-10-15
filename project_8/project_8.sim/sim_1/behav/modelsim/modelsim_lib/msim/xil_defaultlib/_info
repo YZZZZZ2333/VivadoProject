@@ -1,0 +1,609 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/YangZhen/Documents/VivadoProject/project_8/project_8.sim/sim_1/behav/modelsim
+vasym_bwe_bb
+Z1 !s10a 1558741137
+Z2 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z3 !s110 1574145529
+!i10b 1
+!s100 R]O3L_Q`Hl2OK2TP>RN1@0
+II`K5NTNg]OYi>ZGV5^N803
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 !s105 xpm_memory_sv_unit
+S1
+R0
+Z6 w1558741137
+Z7 8C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+Z8 FC:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv
+L0 7959
+Z9 OL;L;10.6e;65
+r1
+!s85 0
+31
+Z10 !s108 1574145528.000000
+Z11 !s107 C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv|C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|
+Z12 !s90 -64|-incr|-sv|-work|xil_defaultlib|C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv|C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_memory/hdl/xpm_memory.sv|
+!i113 1
+Z13 o-sv -work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z14 tCvgOpt 0
+vCNT138T
+!s10a 1574142200
+Z15 !s110 1574145530
+!i10b 1
+!s100 5O]0aF[E>2B@9LAdNjG>Z3
+ICP`Ed;J=ckif7fae;WV5L1
+R4
+R0
+w1574142200
+8../../../../project_8.srcs/sources_1/new/CNT138T.v
+F../../../../project_8.srcs/sources_1/new/CNT138T.v
+L0 1
+R9
+r1
+!s85 0
+31
+Z16 !s108 1574145530.000000
+!s107 ../../../../project_8.srcs/sources_1/new/main.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/new/FDTV.v|../../../../project_8.srcs/sources_1/new/CNT138T.v|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../../project_8.srcs/sources_1/new/CNT138T.v|../../../../project_8.srcs/sources_1/new/FDTV.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/main.v|
+!i113 1
+Z17 o-work xil_defaultlib -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R14
+n@c@n@t138@t
+vdist_mem_gen_0
+!s10a 1574328896
+!s110 1574327728
+!i10b 1
+!s100 hH;@hb;ELf`b]iedmzHED2
+I[Ei2WcdTV<FMG?E4=<lZ<2
+R4
+R0
+w1574327168
+8../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+F../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v
+L0 56
+R9
+r1
+!s85 0
+31
+!s108 1574327728.000000
+Z18 !s107 ../../../../project_8.srcs/sim_1/new/main_tb.v|../../../../project_8.srcs/sources_1/new/main.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+Z19 !s90 -64|-incr|-work|xil_defaultlib|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/main.v|../../../../project_8.srcs/sim_1/new/main_tb.v|
+!i113 1
+R17
+R14
+vF_CODE
+!s10a 1574329202
+!s110 1574328351
+!i10b 1
+!s100 g3coP9CcjGgdZk_JmRFd=2
+ILAgc2bgoARIjTPch61Q>62
+R4
+R0
+w1574328206
+8../../../../project_8.srcs/sources_1/new/F_CODE.v
+F../../../../project_8.srcs/sources_1/new/F_CODE.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1574328351.000000
+R18
+R19
+!i113 1
+R17
+R14
+n@f_@c@o@d@e
+vFDTV
+!s110 1574163577
+!i10b 1
+!s100 LhFN0QhRYXY7Hnl]oAL833
+InAdYK>W0BdhH1TBY8DC6O0
+R4
+R0
+w1574163550
+8../../../../project_8.srcs/sources_1/new/FDTV.v
+F../../../../project_8.srcs/sources_1/new/FDTV.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1574163577.000000
+!s107 ../../../../project_8.srcs/sim_1/new/main_tb.v|../../../../project_8.srcs/sources_1/new/main.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/new/FDTV.v|../../../../project_8.srcs/sources_1/new/CNT138T.v|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../project_8.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v|../../../../project_8.srcs/sources_1/new/CNT138T.v|../../../../project_8.srcs/sources_1/new/FDTV.v|../../../../project_8.srcs/sources_1/new/F_CODE.v|../../../../project_8.srcs/sources_1/new/SPKER.v|../../../../project_8.srcs/sources_1/new/main.v|../../../../project_8.srcs/sim_1/new/main_tb.v|
+!i113 1
+R17
+R14
+n@f@d@t@v
+vglbl
+Z20 !s110 1574330204
+!i10b 1
+!s100 JWZ^meD<P7inSF0<1SiO32
+IAl?5;D^:bf?I5A^M>WzmU1
+R4
+R0
+w1558713910
+8glbl.v
+Fglbl.v
+L0 6
+R9
+r1
+!s85 0
+31
+Z21 !s108 1574330204.000000
+!s107 glbl.v|
+!s90 -work|xil_defaultlib|glbl.v|
+!i113 1
+R17
+R14
+vila_0
+!s10a 1574136851
+R15
+!i10b 1
+!s100 f6DmGAKzbU8Uz;@nKb:8O2
+I=lQ]PMmO1]=7@AX<=D_LQ0
+R4
+R0
+w1574136851
+8../../../../project_8.srcs/sources_1/ip/ila_0/sim/ila_0.v
+F../../../../project_8.srcs/sources_1/ip/ila_0/sim/ila_0.v
+L0 49
+R9
+r1
+!s85 0
+31
+R16
+!s107 ../../../../project_8.srcs/sources_1/ip/ila_0/sim/ila_0.v|
+!s90 -64|-incr|-work|xil_defaultlib|../../../../project_8.srcs/sources_1/ip/ila_0/sim/ila_0.v|
+!i113 1
+R17
+R14
+vmain
+R20
+!i10b 1
+!s100 lRITi2Ek=513]HiBSZZd63
+Ik_a1QH?26K9o55Cf69oB_2
+R4
+R0
+w1574330187
+8../../../../project_8.srcs/sources_1/new/main.v
+F../../../../project_8.srcs/sources_1/new/main.v
+L0 1
+R9
+r1
+!s85 0
+31
+R21
+R18
+R19
+!i113 1
+R17
+R14
+vmain_tb
+!s10a 1574330085
+!s110 1574330089
+!i10b 1
+!s100 d9kFHK^4^2DFS]c7^7gEM2
+IWEU=9azSZ[d1e`c:aJ<411
+R4
+R0
+w1574330085
+8../../../../project_8.srcs/sim_1/new/main_tb.v
+F../../../../project_8.srcs/sim_1/new/main_tb.v
+L0 2
+R9
+r1
+!s85 0
+31
+!s108 1574330089.000000
+R18
+R19
+!i113 1
+R17
+R14
+vSPKER
+!s10a 1574326355
+!s110 1574325814
+!i10b 1
+!s100 CKO?ka167Po19TYoP4iz;2
+I^mFR42T5D_8iNE3^0YzJU2
+R4
+R0
+w1574325807
+8../../../../project_8.srcs/sources_1/new/SPKER.v
+F../../../../project_8.srcs/sources_1/new/SPKER.v
+L0 1
+R9
+r1
+!s85 0
+31
+!s108 1574325814.000000
+R18
+R19
+!i113 1
+R17
+R14
+n@s@p@k@e@r
+vxpm_cdc_array_single
+Z22 !s10a 1558741136
+R2
+Z23 !s110 1574145528
+!i10b 1
+!s100 =VCjSNQS`Sc;VVc:>Ya>X3
+Io73oJXPH:jh:n7dg@=3jh3
+R4
+Z24 !s105 xpm_cdc_sv_unit
+S1
+R0
+Z25 w1558741136
+Z26 8C:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+Z27 FC:/Xilinx/Vivado/2019.1/data/ip/xpm/xpm_cdc/hdl/xpm_cdc.sv
+L0 903
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_async_rst
+R22
+R2
+R23
+!i10b 1
+!s100 0^B>I@]YG>O`F06]ME?Kz2
+I`h_6TaP^ZHBdUTDjRiihO1
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 1175
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_gray
+R22
+R2
+R23
+!i10b 1
+!s100 c5:[hXPGkREE=om;h1PER2
+IclcmWbk68M;`RLBj5AzNS2
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 284
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_handshake
+R22
+R2
+R23
+!i10b 1
+!s100 2nX[0D7bN@CTBzPhT6ZId2
+Ic5NMa:IKWEhZ_AnJ@fZGL2
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 469
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_low_latency_handshake
+R22
+R2
+R23
+!i10b 1
+!s100 DUQY8F6f@DWmT?f9Uo8G01
+I6iMP^zSWQ201CC;TM9XRQ2
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 1265
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_pulse
+R22
+R2
+R23
+!i10b 1
+!s100 =[IbJ?5ZSd_W^B7BUX1:S1
+I46HP>YFd6I;L_SoEeRK^=2
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 715
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_single
+R22
+R2
+R23
+!i10b 1
+!s100 ET1C2ZNLeac[<SbXI_oJ_0
+IbfkFcPm`b9b`Vij:Ra`OO3
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 153
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_cdc_sync_rst
+R22
+R2
+R23
+!i10b 1
+!s100 SPJeHj8CAXRP0D6YU2jDG2
+IYO?=X2EagNoKc;z;H>[^b0
+R4
+R24
+S1
+R0
+R25
+R26
+R27
+L0 1059
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_base
+R1
+R2
+R3
+!i10b 1
+!s100 ^75VP_`C;JB@BaH7o[7f72
+IaUlB]LY7cYQWJoc1m?YXV0
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 57
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_dpdistram
+R1
+R2
+R3
+!i10b 1
+!s100 d>8l4PVCgY;o02Q3jaS0a2
+I]=jDSCK?NQ3e>:jaZfTT=2
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8018
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_dprom
+R1
+R2
+R3
+!i10b 1
+!s100 iMn3X6F?lc@I1>J9B?j^b0
+Ib@<7n6bAW8PYI@kX92QbF2
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8158
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_sdpram
+R1
+R2
+R3
+!i10b 1
+!s100 =:l`CUBA?>i:m7b`SB`;Z3
+IQVo@j[:8SjX3_z1D[RBY>3
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8320
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_spram
+R1
+R2
+R3
+!i10b 1
+!s100 JB^W4^2PIfVcLg83W`VkE2
+I3JCSVG:7_lLf23nUWgUNd1
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8483
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_sprom
+R1
+R2
+R3
+!i10b 1
+!s100 oiXKWQEdmgBIa6YoBNJnL3
+IHhz^Ic<=F:z5V6WHA<^Ba1
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8635
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
+vxpm_memory_tdpram
+R1
+R2
+R3
+!i10b 1
+!s100 ?nZVY[fY1ieIozH4h;RQ73
+IZnHS3hmRAW?e^ALe4JBd43
+R4
+R5
+S1
+R0
+R6
+R7
+R8
+L0 8777
+R9
+r1
+!s85 0
+31
+R10
+R11
+R12
+!i113 1
+R13
+R14
